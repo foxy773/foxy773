@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Prosesser_og_brukergrensesnitt](https://github.com/MZSkjaerstad/Prosesser_og_brukergrensesnitt)
 
-- 🌱 I’m currently learning **Frameworks, VUE 3**
+- 🌱 I’m currently learning **VUE 3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/foxy773?tab=repositories](https://github.com/foxy773?tab=repositories)
 
