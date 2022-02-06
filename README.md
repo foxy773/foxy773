@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=foxy773&label=Profile%20views&color=0e75b6&style=flat" alt="foxy773" /> </p>
 
-- 🔭 I’m currently working on [Prosesser_og_brukergrensesnitt](https://github.com/MZSkjaerstad/Prosesser_og_brukergrensesnitt)
+<p align="center">- 🔭 I’m currently working on [Prosesser_og_brukergrensesnitt](https://github.com/MZSkjaerstad/Prosesser_og_brukergrensesnitt) </p>
 
 - 🌱 I’m currently learning **VUE 3**
 
