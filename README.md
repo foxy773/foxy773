@@ -5,11 +5,11 @@
 
 <p align="center">- 🔭 I’m currently working on [Prosesser_og_brukergrensesnitt](https://github.com/MZSkjaerstad/Prosesser_og_brukergrensesnitt)</p>
 
-<p align="center">- 🌱 I’m currently learning **VUE 3**</p>
+<p align="center">- 🌱 I’m currently learning VUE 3</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/foxy773?tab=repositories](https://github.com/foxy773?tab=repositories)</p>
 
-<p align="center">- 📫 How to reach me **felix_1999@live.no**</p>
+<p align="center">- 📫 How to reach me felix_1999@live.no</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
