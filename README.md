@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=foxy773&label=Profile%20views&color=0e75b6&style=flat" alt="foxy773" /> </p>
 
-<p align="center">- 🔭 I’m currently working on [Prosesser_og_brukergrensesnitt](https://github.com/MZSkjaerstad/Prosesser_og_brukergrensesnitt)</p>
-
-<p align="center">- 🌱 I’m currently learning VUE 3</p>
+<p align="center">- 🌱 I’m currently learning Typescript</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/foxy773?tab=repositories](https://github.com/foxy773?tab=repositories)</p>
 
