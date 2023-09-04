@@ -1,37 +1,3 @@
-<style>
-p{
-    margin: 0;
-}
-
-li{
-  list-style:none;
-  display: flex;
-  flex-direction: column;
-  margin-left: 1rem;
-}
-
-li >div {
-  display:flex;
-}
-
-li > div > p{
-  color: #78d9f9;
-}
-
-li > div > p > b {
-  color: #fe6e95;
-}
-
-.container{
-background-color: d;
-color:red;
-}
-
-.inset{
-padding-left: "20px";
-}
-</style>
-
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/55444462?v=4"  />
 </div>
@@ -77,7 +43,6 @@ padding-left: "20px";
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
@@ -102,34 +67,15 @@ padding-left: "20px";
 
 ### &nbsp;Schools <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Graduation%20Cap.png?raw=true" align="left" height="25">
 
-<ul>
+<font size="3">2021-2022</font>
+<img class="inset" align="left" src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Høyskolen Kristiania Fagskole</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Year-long study - Frontend Developer</font>
 
-<li>
-<font size="3">2020-2021</font>
-<div>
-<img src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">
-<p><b>&nbsp;Høyskolen Kristiania Fagskole</b> Frontend-utvikler</p>
-</div>
-</li>
-
-</ul>
-<br>
+</br>
+</br>
 ### &nbsp;Work<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Office%20Worker.png?raw=true" align="left" height="25">
 
-<ul>
-
-<li>
 <font size="3">jun. 2022 - jul. 2022</font>
-<div>
-<img src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">
-<p><b>&nbsp;Kindly Frontend Utvikler </b>Intern</p>
-</div>
-</li>
+<img align="left" src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Kindly Frontend Developer</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Intern</font>
 
-<li>
 <font size="3">okt. 2022 - jul. 2023</font>
-<div>
-<img src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">
-<p><b>&nbsp;Kindly Frontend Utvikler </b>Fulltime</p>
-</div>
-</li>
+<img align="left" src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Kindly Frontend Developer</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Fulltime</font>
