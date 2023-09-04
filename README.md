@@ -68,6 +68,7 @@
 ### &nbsp;Schools <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Graduation%20Cap.png?raw=true" align="left" height="25">
 
 <font size="3">2021-2022</font>
+
 <img class="inset" align="left" src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Høyskolen Kristiania Fagskole</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Year-long study - Frontend Developer</font>
 
 </br>
