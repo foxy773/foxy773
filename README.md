@@ -1,41 +1,135 @@
-<h2 align="left">Hi 👋! My name is Felix and I'm a Frontend developer, from Norway</h2>
+<style>
+p{
+    margin: 0;
+}
+
+li{
+  list-style:none;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+}
+
+li >div {
+  display:flex;
+}
+
+li > div > p{
+  color: #78d9f9;
+}
+
+li > div > p > b {
+  color: #fe6e95;
+}
+
+.container{
+background-color: d;
+color:red;
+}
+
+.inset{
+padding-left: "20px";
+}
+</style>
+
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/55444462?v=4"  />
+</div>
+
+###
+
+<img align="left" height="65" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png?raw=true"  />
+
+###
+
+<h1 align="left">Hello! Welcome. My name is Felix</h1>
+
+###
+
+<h3 align="center">I am a 24 year old Junior Frontend developer from Norway learning to become a Fullstack developer</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=foxy773" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=foxy773" height="150" alt="languages graph"  />
+  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/C4D03AQE_YHcYvHO4_Q/profile-displayphoto-shrink_400_400/0/1642756616387?e=1680134400&v=beta&t=FP3g1IkADxUmBl-80si_Pte3oOQR2FO7WJY17jjFMEc"  />
+<p align="left">🔭 I’m currently working on an ai-image-generator, scraper.<br>🌱 I’m currently learning: Next.js,  Tailwind, Typescript, T3-stack.<br>⚡ Fun fact: A moth trapped in the Mark II computer led to the term "bug" for software errors. This first "bug" was taped to the log book, and now we call program Issues "bugs"! 🐛💻</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-</div>
+<img src="https://raw.githubusercontent.com/foxy773/foxy773/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/felixbackaarnes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/foxy773/foxy773/main/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="40" src="https://i.gifer.com/3klZ.gif"  />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foxy773&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foxy773&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=foxy773&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+## Relevant Work & Education <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png?raw=true" height="50">
+
+### &nbsp;Schools <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Graduation%20Cap.png?raw=true" align="left" height="25">
+
+<ul>
+
+<li>
+<font size="3">2020-2021</font>
+<div>
+<img src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">
+<p><b>&nbsp;Høyskolen Kristiania Fagskole</b> Frontend-utvikler</p>
+</div>
+</li>
+
+</ul>
+<br>
+### &nbsp;Work<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Office%20Worker.png?raw=true" align="left" height="25">
+
+<ul>
+
+<li>
+<font size="3">jun. 2022 - jul. 2022</font>
+<div>
+<img src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">
+<p><b>&nbsp;Kindly Frontend Utvikler </b>Intern</p>
+</div>
+</li>
+
+<li>
+<font size="3">okt. 2022 - jul. 2023</font>
+<div>
+<img src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">
+<p><b>&nbsp;Kindly Frontend Utvikler </b>Fulltime</p>
+</div>
+</li>
