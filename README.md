@@ -72,11 +72,14 @@
 
 </br>
 </br>
-
 ### &nbsp;Work<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Office%20Worker.png?raw=true" align="left" height="25">
 
 <font size="3">jun. 2022 - jul. 2022</font>
+
 <img align="left" src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Kindly Frontend Developer</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Intern</font>
 
+</br>
+
 <font size="3">okt. 2022 - jul. 2023</font>
+
 <img align="left" src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">&nbsp;&nbsp;<font color="#fe6e95"><b>Kindly Frontend Developer</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Fulltime</font>
