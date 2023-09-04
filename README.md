@@ -72,6 +72,7 @@
 
 </br>
 </br>
+
 ### &nbsp;Work<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Office%20Worker.png?raw=true" align="left" height="25">
 
 <font size="3">jun. 2022 - jul. 2022</font>
