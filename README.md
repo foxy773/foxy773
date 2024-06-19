@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">I am a 24 year old Junior Frontend developer from Norway learning to become a Fullstack developer</h3>
+<h3 align="center">I am a 25 year old Junior Frontend developer from Norway learning to become a Fullstack developer</h3>
 
 ###
 
