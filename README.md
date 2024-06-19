@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an ai-image-generator, scraper.<br>🌱 I’m currently learning: Next.js,  Tailwind, Typescript, T3-stack.<br>⚡ Fun fact: A moth trapped in the Mark II computer led to the term "bug" for software errors. This first "bug" was taped to the log book, and now we call program Issues "bugs"! 🐛💻</p>
+<p align="left">🔭 I’m currently working on an ai-platform.<br>🌱 I’m currently learning: Next.js,  Tailwind, Typescript.<br>⚡ Fun fact: A moth trapped in the Mark II computer led to the term "bug" for software errors. This first "bug" was taped to the log book, and now we call program Issues "bugs"! 🐛💻</p>
 
 ###
 
