@@ -16,11 +16,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -42,7 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="40" src="https://i.gifer.com/3klZ.gif"  />
+  <img height="40" src="https://i.gifer.com/beg.gif"  />
 </div>
 
 ###
