@@ -22,14 +22,6 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an ai-platform.<br>🌱 I’m currently learning: Next.js,  Tailwind, Typescript.<br>⚡ Fun fact: A moth trapped in the Mark II computer led to the term "bug" for software errors. This first "bug" was taped to the log book, and now we call program Issues "bugs"! 🐛💻</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/foxy773/foxy773/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -70,6 +62,8 @@
 <font size="3">2021-2022</font>
 
 <img class="inset" align="left" src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">&nbsp;<font color="#fe6e95"><b>Høyskolen Kristiania Fagskole</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Year-long study - Frontend Developer</font>
+
+</br>
 
 <font size="3">2024-2025</font>
 
