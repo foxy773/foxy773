@@ -22,6 +22,10 @@
 
 ###
 
+<p align="left">🔭 I’m currently working on an ai-platform.<br>🌱 I’m currently learning: Next.js,  Tailwind, Typescript.<br>⚡ Fun fact: A moth trapped in the Mark II computer led to the term "bug" for software errors. This first "bug" was taped to the log book, and now we call program Issues "bugs"! 🐛💻</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/foxy773/foxy773/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -67,6 +71,10 @@
 
 <img class="inset" align="left" src="https://stipendportalen.no/ImageSource/CompanyLogo160Src/2448" height="25">&nbsp;<font color="#fe6e95"><b>Høyskolen Kristiania Fagskole</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Year-long study - Frontend Developer</font>
 
+<font size="3">2024-2025</font>
+
+<img class="inset" align="left" src="https://www.noroff.no/https://static.noroff.no/cms/noroff/noroff-logo.png" height="25">&nbsp;<font color="#fe6e95"><b>Noroff</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Year-long study - Backend Developer</font>
+
 </br>
 </br>
 
@@ -81,3 +89,9 @@
 <font size="3">okt. 2022 - jul. 2023</font>
 
 <img align="left" src="https://odanettverk.no/wp-content/uploads/2021/10/Kindly-logo-RGB-1000px.png" height="25">&nbsp;<font color="#fe6e95"><b>Kindly Frontend Developer</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Fulltime</font>
+
+</br>
+
+<font size="3">jul. 2024 - nov. 2024</font>
+
+<img align="left" src="https://cdn.prod.website-files.com/651d6ee3912ce39a76e14477/6548eabc68279728a9704c68_Aboveit%20webclip.png" height="25">&nbsp;<font color="#fe6e95"><b>Aboveit Frontend Intern</b></font><font color="#78d9f9" size="1">&nbsp;&nbsp;Junior - Fulltime</font>
